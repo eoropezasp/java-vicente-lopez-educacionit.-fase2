@@ -18,6 +18,8 @@ public class MainInterfaces {
 		
 		persona1.aprender(idioma);
 		
+		//sd
+		
 	}
 
 }
