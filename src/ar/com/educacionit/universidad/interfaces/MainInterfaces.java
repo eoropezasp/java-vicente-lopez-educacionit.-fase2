@@ -9,16 +9,8 @@ public class MainInterfaces {
 		var persona1 = new Persona("carlos", idioma);
 
 		
-		String palabra = "hola";
 		
-		
-		persona1.decir(palabra);
-		
-		idioma = new Espaniol();
-		
-		persona1.aprender(idioma);
-		
-		//sd
+		persona1.decir("hello perri");
 		
 	}
 
